@@ -82,7 +82,10 @@ It presents a **smart mobile robotic assistant** that:
 ---
 
 ## 📸 Demo & Media  
-👉 *(Add images, demo GIFs, or YouTube video links here)*  
+👉   ![two](https://github.com/user-attachments/assets/16dc69cf-2804-424c-8171-89c239281787)
+![Bot_Movement_to_Shelf](https://github.com/user-attachments/assets/38791b60-33f4-4553-bc83-c2b7dcc886d1)
+![Final_output](https://github.com/user-attachments/assets/5b762158-22e5-4829-9bfd-aab4445fed9c)
+
 
 ---
 
